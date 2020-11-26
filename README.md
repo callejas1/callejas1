@@ -10,7 +10,7 @@ From Nicaragua 🇳🇮, and live in The Netherlands 🇳🇱
 
 Checkout my current work: <a href="https://codepen.io/Gayjelly19/pen/wvWQrWR" target="_blank">HYF - Repository list</a>
 
-```
+```javascript
 function reachMe() {
   socialMedia = {
   twitter: "https://twitter.com/gayjelly19",
