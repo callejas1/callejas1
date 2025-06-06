@@ -1,4 +1,4 @@
-# Hey there, I'm Yos 👋
+# Hey, I'm Yos 👋
 
 I am currently working as a Business Analyst at <a href="https://www.emakina.com/en-nl/" target="_blank">Emakina.NL</a>
 
